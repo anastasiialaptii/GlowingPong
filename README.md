@@ -1,4 +1,4 @@
-Unity game inspired by Ping Pong
+2 players Unity game inspired by Ping Pong
 [Watch the demo video on YT](https://youtu.be/tKPV-m6XGLg)
 
 <img width="581" height="347" alt="image" src="https://github.com/user-attachments/assets/4e97a89c-856b-4183-ab9e-418231c019b7" />
